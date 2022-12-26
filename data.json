@@ -1,0 +1,12 @@
+{
+    "infoArchivo": [
+        {
+            "nombreProducto": "jabon",
+            "precio": "1000"
+        },
+        {
+            "nombreProducto": "queso",
+            "precio": "12300"
+        }
+    ]
+}
